@@ -1,2 +1,2 @@
 # GCS-bot
-bot for friend
+I make this bot for a friend because he want custom command simply.
